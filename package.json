@@ -4,7 +4,7 @@
   "description": "this is my bot",
   "main": "app.js",
   "scripts": {
-    "test": ""
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
