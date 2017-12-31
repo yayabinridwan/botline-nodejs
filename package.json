@@ -1,0 +1,17 @@
+{
+  "name": "mybot_sucess",
+  "version": "1.0.0",
+  "description": "this is my bot",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^5.2.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
